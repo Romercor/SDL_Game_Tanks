@@ -11,6 +11,8 @@ Used technologies:
   
 
 Gameplay
+
+  To start the program use Program.sln
   
   USE P TO START THE GAME FROM THE MAIN THEM
   
