@@ -5,6 +5,7 @@ Used technologies:
   SDL-Library
   OOP Concept
   The Project is mostly done with C++
+  
 Gameplay
   USE P TO START THE GAME FROM THE MAIN THEM
   1 player uses wasd for movements and "space" for shooting (blue tank)
