@@ -2,15 +2,24 @@
 C++ SDL 2D Game project for two people on the same PC.
 
 Used technologies:
+  
   SDL-Library
+  
   OOP Concept
+  
   The Project is mostly done with C++
   
+
 Gameplay
+  
   USE P TO START THE GAME FROM THE MAIN THEM
+  
   1 player uses wasd for movements and "space" for shooting (blue tank)
+  
   2 player uses arrows for movements and right shift for shooting (red tank)
+  
   the game ends when one tank hits another
+
 Features
   * Movement is only possible inside the brick zone, shots cannot destroy the brick
   * The red tank, due to its outdated track model, leaves tracks on the field that can be tracked
